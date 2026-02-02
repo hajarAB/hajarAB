@@ -10,20 +10,20 @@ I enjoy turning raw data into meaningful insights through analytics, dashboards,
 
 <ul>
   <li>
-    <b>📊 Customer Purchase Behavior & Review Insights (Power BI)</b><br/>
-    <a href="https://github.com/hajarAB/customer-purchase-behavior-powerbi">Interactive dashboard analyzing customer behavior, purchase patterns, and review trends.</a>
+    <b>📊 E-Commerce Sales Analysis Dashboard (Power BI)</b><br/>
+    <a href="https://github.com/hajarAB/customer-purchase-behavior-powerbi">Interactive dashboard for E-Commerce Sales Analysis </a>
   </li>
   <br/>
 
   <li>
-    <b>📈 Marketing KPIs Analysis & Automation (SQL / Power BI)</b><br/>
-    <a href="https://github.com/hajarAB/marketing-kpi-analysis-sql">Automated data extraction and KPI monitoring to support marketing decision-making.</a>
+    <b>📈 Stock Optimization & Stockout Risk Prediction (SQL / Python / Power BI)</b><br/>
+    <a href="https://github.com/hajarAB/marketing-kpi-analysis-sql">Stock Optimization & Stockout Risk Prediction</a>
   </li>
   <br/>
 
   <li>
-    <b>🤖 Predictive Modeling & A/B Testing (Python)</b><br/>
-    <a href="https://github.com/hajarAB/predictive-modeling-ab-testing">Machine learning models and statistical experiments to evaluate product features.</a>
+    <b>🤖 Credit Scoring – Machine Learning Project (Python)</b><br/>
+    <a href="https://github.com/hajarAB/predictive-modeling-ab-testing">Credit Scoring – Machine Learning Project</a>
   </li>
 </ul>
 

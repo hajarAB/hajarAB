@@ -15,7 +15,7 @@ interactive dashboards, and predictive models.
     <span>
       End-to-end data cleaning, feature engineering, and exploratory data analysis on the NYC Airbnb dataset.
     </span><br/>
-    <a href="https://github.com/hajarAB/airbnb-nyc-data-cleaning">
+    <a href="https://github.com/hajarAB/airbnb-data-cleaning">
       View Project →
     </a>
   </li>

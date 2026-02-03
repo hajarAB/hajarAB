@@ -1,5 +1,5 @@
 <h1>Hi, I'm Hajar 👋</h1>
-<h3>M2 Student in Complex Systems Engineering | Data Analyst | Aspiring Data Scientist</h3>
+<h3>M2 Student in Complex Systems Engineering | Data Scientist | Data Analyst</h3>
 
 <p>
 M2 student at <b>EILCO</b> with a strong focus on <b>data analytics, business intelligence, and machine learning</b>.

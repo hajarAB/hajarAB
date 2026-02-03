@@ -11,6 +11,17 @@ interactive dashboards, and predictive models.
 
 <ul>
   <li>
+    <b>🏙️ NYC Airbnb Data Cleaning & Exploratory Analysis (Python)</b><br/>
+    <span>
+      End-to-end data cleaning, feature engineering, and exploratory data analysis on the NYC Airbnb dataset.
+    </span><br/>
+    <a href="https://github.com/hajarAB/airbnb-nyc-data-cleaning">
+      View Project →
+    </a>
+  </li>
+  <br/>
+
+  <li>
     <b>📊 E-Commerce Sales Analysis Dashboard (Power BI)</b><br/>
     <span>
       Sales performance, customer behavior, and seasonality analysis using real e-commerce data.

@@ -24,7 +24,7 @@ interactive dashboards, and predictive models.
   <li>
     <b>📊 E-Commerce Sales Analysis Dashboard (Power BI)</b><br/>
     <span>
-      Sales performance, customer behavior, and seasonality analysis using real e-commerce data.
+      Sales performance, and seasonality analysis using real e-commerce data.
     </span><br/>
     <a href="https://github.com/hajarAB/customer-purchase-behavior-powerbi">
       View Project →
